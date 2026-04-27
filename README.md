@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 DevOps Engineer focused on Kubernetes, CI/CD, and cloud-native infrastructure.
-I build and operate reliable systems, automate everything I can and hate snowflake servers.
 
 ## 🛠 Core Stack
 
