@@ -2,7 +2,7 @@
 
 DevOps Engineer focused on Kubernetes, CI/CD, and cloud-native infrastructure.
 
-я DevOps-инженер, которому не все равно на протяжении всего жизненного цикла ПО.
+Я DevOps-инженер, которому не всё равно – на протяжении всего жизненного цикла ПО.
 
 ## 🛠 Core Stack
 
